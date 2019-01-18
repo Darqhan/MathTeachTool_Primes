@@ -75,7 +75,7 @@ def lnko_ertek ():
     "write out the result of gcd (lnko) to GUI"
     a = int(mezo1.get())
     b = int(mezo2.get())
-    messagebox.showinfo("lnko",lnko (a,b))
+    messagebox.showinfo("lnko",lnko(a,b))
 def lkkt_ertek():
     "write out the result scm (lkkt) to GUI"
     a = int(mezo1.get())
