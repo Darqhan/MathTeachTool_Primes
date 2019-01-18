@@ -14,6 +14,7 @@ Other buttons:
 - Help (Sugo)
 '''
 from tkinter import *
+from tkinter import messagebox
 # this prompt is for the label name aside of the input field
 prompt = 'kérek egy számot'
 TEXT_MAXINPUTSIZE = 6
